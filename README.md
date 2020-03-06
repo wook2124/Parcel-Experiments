@@ -10,3 +10,7 @@ Setting up a professional React project with Parcel as a code bundler.
 - CSS Modules
 - Typography.js
 - Build for production
+
+### Website
+
+- https://ko.parceljs.org/
