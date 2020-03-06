@@ -4,7 +4,8 @@
   "description": "Setting up a professional React project with Parcel as a code bundler.",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "parcel index.html"
   },
   "repository": {
     "type": "git",
@@ -16,5 +17,11 @@
   "bugs": {
     "url": "https://github.com/wook2124/Parcel-Experiments/issues"
   },
-  "homepage": "https://github.com/wook2124/Parcel-Experiments#readme"
+  "homepage": "https://github.com/wook2124/Parcel-Experiments#readme",
+  "dependencies": {
+    "babel-preset-env": "^1.7.0",
+    "babel-preset-react": "^6.24.1",
+    "react": "^16.13.0",
+    "react-dom": "^16.13.0"
+  }
 }
