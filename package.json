@@ -23,5 +23,8 @@
     "babel-preset-react": "^6.24.1",
     "react": "^16.13.0",
     "react-dom": "^16.13.0"
+  },
+  "devDependencies": {
+    "babel-core": "^6.26.3"
   }
 }
