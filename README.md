@@ -2,6 +2,9 @@
 
 Setting up a professional React project with Parcel as a code bundler.
 
+## Demo Link
+https://wook2124.github.io/Parcel-Experiments/
+
 ## Feature
 
 - React ✅
@@ -15,3 +18,16 @@ Setting up a professional React project with Parcel as a code bundler.
 
 - https://ko.parceljs.org/
 - https://postcss.org/
+
+
+## What I used for this project 
+- [X] Parcel
+
+###
+- [X] HTML
+- [X] CSS
+- [X] JavaScript
+- [X] React
+- [X] Babel
+- [X] PostCSS
+- [X] Typography
