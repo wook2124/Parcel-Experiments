@@ -8,9 +8,10 @@ Setting up a professional React project with Parcel as a code bundler.
 - ES6 with Babel ✅
 - SCSS ✅
 - CSS Modules ✅
-- Typography.js
-- Build for production
+- Typography.js ✅
+- Build for production ✅
 
 ### Website
 
 - https://ko.parceljs.org/
+- https://postcss.org/

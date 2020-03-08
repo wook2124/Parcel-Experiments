@@ -1,0 +1,13 @@
+{
+  "version": 3,
+  "sources": [
+    "styles.css"
+  ],
+  "names": [],
+  "mappings": "AAAA,cACE,UACF",
+  "file": "Parcel-Experiments.ade85bc8.css",
+  "sourceRoot": "..",
+  "sourcesContent": [
+    ".title {\r\n  color: blue;\r\n}"
+  ]
+}
