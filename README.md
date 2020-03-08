@@ -18,16 +18,3 @@ https://wook2124.github.io/Parcel-Experiments/
 
 - https://ko.parceljs.org/
 - https://postcss.org/
-
-
-## What I used for this project 
-- [X] Parcel
-
-###
-- [X] HTML
-- [X] CSS
-- [X] JavaScript
-- [X] React
-- [X] Babel
-- [X] PostCSS
-- [X] Typography
