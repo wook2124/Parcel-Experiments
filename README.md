@@ -3,7 +3,8 @@
 Setting up a professional React project with Parcel as a code bundler.
 
 ## Demo Link
-https://wook2124.github.io/Parcel-Experiments/
+
+- [Parcel-Experiments](https://wook2124.github.io/Parcel-Experiments/)
 
 ## Feature
 
@@ -16,7 +17,7 @@ https://wook2124.github.io/Parcel-Experiments/
 
 ### Website
 
-- https://ko.parceljs.org/
-- https://postcss.org/
-- https://kyleamathews.github.io/typography.js/
+- [parceljs](https://ko.parceljs.org/)
+- [postcss](https://postcss.org/)
+- [typography](https://kyleamathews.github.io/typography.js/)
  
