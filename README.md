@@ -17,7 +17,7 @@ Setting up a professional React project with Parcel as a code bundler.
 
 ### Website
 
-- [parceljs](https://ko.parceljs.org/)
-- [postcss](https://postcss.org/)
-- [typography](https://kyleamathews.github.io/typography.js/)
+- [Parcel JS](https://ko.parceljs.org/)
+- [PostCSS](https://postcss.org/)
+- [Typography](https://kyleamathews.github.io/typography.js/)
  
