@@ -2,7 +2,7 @@
 
 Setting up a professional React project with Parcel as a code bundler.  
 
-Parcel = Useful for small projects🤗
+Parcel, Useful for small projects🤗
 
 ## Demo Link
 
